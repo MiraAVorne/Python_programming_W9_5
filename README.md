@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zSomi9Bq)
 # W9_5
 
 Collect red, green and blue integer values, each on range 0-255 inclusively. This range is often described as “byte” or 8-bit. These 3 bytes (R, G and B) can be used to describe one color using hex notation “#rrggbb”, where the “rr” represents the amount of color red. The hex notation is created using the byte information.
